@@ -10,7 +10,7 @@ import Projects from './pages/Projects';
 
 function App() {
 
-  const URL = "http://localhost:4000/"
+  const URL = "https://express-react-lab-lb.herokuapp.com/"
 
   return (
     <div className="App">
